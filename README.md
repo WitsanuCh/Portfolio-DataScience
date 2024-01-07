@@ -10,7 +10,7 @@ Intro to data science
 - Data Transformation
 - Data Visualization
 
-##Second part of the program
+## Second part of the program
 
 - Essential Statistics
 - Dashboard with Looker Studio, Power Bi, Tableau
